@@ -73,3 +73,6 @@ body{
     box-shadow: 0 0 5px ;
     background-color: rgb(27, 149, 72);
 }
+a{
+    text-decoration: none;
+}
